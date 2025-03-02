@@ -1,0 +1,22 @@
+.todo-list {
+	font-family: Arial, sans-serif;
+	padding: 20px;
+	background-color: #ffe6e6;
+	border-radius: 8px;
+	max-width: 600px;
+	margin: auto;
+}
+
+.todo-list h1 {
+	color: #ff69b4;
+	text-align: center;
+}
+
+.todo-item {
+	background-color: #fff;
+	margin: 10px 0;
+	padding: 10px;
+	border-radius: 4px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	list-style-type: none;
+}
